@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PBSM'17</title>
+    <description>The 1st International Workshop on Perceptual Biases and Social Media.</description>
+    <link>https://example.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 23 Jan 2017 15:14:22 -0500</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2017 15:14:22 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
